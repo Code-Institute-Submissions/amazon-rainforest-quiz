@@ -12,3 +12,9 @@
     font-size: 62.5%;
     font-family: 'Amatic SC', cursive;
 }
+
+h1 {
+    font-size: 5.4rem;
+    color: white;
+    margin-bottom: 5rem;
+}
