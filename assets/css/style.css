@@ -2,7 +2,8 @@
 
 :root {
     background-color:#0E4D64;
-    padding-top: none;
+    margin: 0;
+    padding: 0;
 }
 
 * {
@@ -20,6 +21,10 @@ h1 {
     color: #56B870;
 }
 
+h2 {
+    color: white;
+}
+
 .container {
     width: 100vw;
     height: 100vh;
@@ -30,6 +35,12 @@ h1 {
     margin: 0 auto;
     padding: 2rem;
     text-align: center;
+    background-image: url(/assets/images/forest.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-size: 20%;
+    background-position: bottom;
+    background-attachment: fixed;
 }
 
 .flex-column {
