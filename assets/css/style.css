@@ -2,7 +2,7 @@
 
 :root {
     background-color:#0E4D64;
-    ;
+    padding-top: none;
 }
 
 * {
@@ -14,13 +14,6 @@
 }
 
 h1 {
-    font-size: 5.4rem;
-    color: white;
-    margin-bottom: 5rem;
-    text-align: center;
-}
-
-h2 {
     font-size: 4.2rem;
     margin-bottom: 5rem;
     text-align: center;
@@ -75,9 +68,6 @@ h2 {
 }
 
 .btn:hover {
-    width: 200px;
-    font-size: 30px;
-    font-weight: 600;
     color: rgb(3, 57, 14);
     cursor: pointer;
     margin: 30px;
@@ -85,8 +75,7 @@ h2 {
     text-align:center;
     border: none;
     background-size: 30% 10%;
-    border-radius: 30%;
-    -o-transition: all .4s ease-in-out;
-    -webkit-transition: all .4s ease-in-out;
-    transition: all .4s ease-in-out;
+    border-radius: 50%;
+    background-color: #99D492;
+
 }
