@@ -15,14 +15,11 @@
 }
 
 h1 {
-    font-size: 4.2rem;
-    margin-bottom: 5rem;
+    font-size: 5.5rem;
+    margin-bottom: 6rem;
+    margin-top: none;
     text-align: center;
     color: #56B870;
-}
-
-h2 {
-    color: white;
 }
 
 .container {
@@ -76,6 +73,7 @@ h2 {
     border-radius: 50%;
     color: #0E4D64;
     background-color: white;
+    margin-bottom: 10rem;
 }
 
 .btn:hover {
