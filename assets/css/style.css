@@ -32,12 +32,6 @@ h1 {
     margin: 0 auto;
     padding: 2rem;
     text-align: center;
-    background-image: url(/assets/images/forest.png);
-    background-size: contain;
-    background-repeat: no-repeat;
-    background-size: 20%;
-    background-position: bottom;
-    background-attachment: fixed;
 }
 
 .flex-column {
