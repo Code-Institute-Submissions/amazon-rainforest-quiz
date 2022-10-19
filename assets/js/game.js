@@ -12,7 +12,7 @@ let availableQuestion = []
 
 let questions = [
     {
-        question: 'In which countries of South America the Amazon rainforest is found?',
+        question: 'The Amazon rainforest is found in which countries of South America?',
         choice1: 'Brazil, Bolivia, Peru, Ecuador, Colombia, Venezuela, Guyana, Argentina',
         choice2: 'Brazil, Bolivia, Peru, Ecuador, Colombia, Venezuela, Guyana, Uruguay and French Guiana',
         choice3: 'Brazil, Bolivia, Peru, Ecuador, Colombia, Venezuela, Guyana, Suriname and French Guiana',
@@ -20,12 +20,12 @@ let questions = [
         answer: 2,
     },
     {
-        question: 'In which countries of South America the Amazon rainforest is found?',
-        choice1: 'Brazil, Bolivia, Peru, Ecuador, Colombia, Venezuela, Guyana, Argentina',
-        choice2: 'Brazil, Bolivia, Peru, Ecuador, Colombia, Venezuela, Guyana, Uruguay and French Guiana',
-        choice3: 'Brazil, Bolivia, Peru, Ecuador, Colombia, Venezuela, Guyana, Suriname and French Guiana',
-        choice4: 'Brazil, Bolivia, Peru, Ecuador, Colombia, Venezuela, Guyana, Paraguay',
-        answer: 2,
+        question: 'In which country nearly two-thirds of the Amazon rainforest is found?',
+        choice1: 'Brazil',
+        choice2: 'Bolivia',
+        choice3: 'Peru',
+        choice4: 'Ecuador',
+        answer: 1,
     },
     {
         question: 'In which countries of South America the Amazon rainforest is found?',
