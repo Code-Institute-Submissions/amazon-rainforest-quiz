@@ -35,6 +35,28 @@ body {
     background: #BF8C00;
 }
 
+/* Display head */
+
+#display-head {
+    display: flex;
+    justify-content: space-between;
+}
+
+.dh-prefix {
+    text-align: center;
+    font-size: 2rem;
+}
+
+.diplay-head-item-txt {
+    text-align: center;
+}
+
+#progressBar {
+    width: 20rem;
+    height: 3rem;
+    border: 0.2rem;
+}
+
 @media screen and (max-width: 768px) {
     .choice-container {
         min-width: 40rem;
