@@ -1,5 +1,5 @@
 body {
-    color: #74C67A;
+    color: #DAF4C5;
 }
 
 .choice-container {
@@ -45,16 +45,38 @@ body {
 .dh-prefix {
     text-align: center;
     font-size: 2rem;
+    color:#DAF4C5;
+}
+
+.diplay-head-item {
+    text-align: center;
+    font-size: 2rem;
 }
 
 .diplay-head-item-txt {
+    color:#DAF4C5;
+}
+
+#progressText {
     text-align: center;
+    font-size: 2rem;
+    color: #DAF4C5;
+}
+
+#progressBarFull {
+    height: 100%;
+    background: #9EE899;
+    width: 0%;
 }
 
 #progressBar {
     width: 20rem;
     height: 3rem;
-    border: 0.2rem;
+    border: 0.2rem solid #DAF4C5;
+    margin-top: 2rem;
+    border-radius: 50px;
+    overflow: hidden;
+    color: white;
 }
 
 @media screen and (max-width: 768px) {
