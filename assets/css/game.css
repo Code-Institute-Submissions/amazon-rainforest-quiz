@@ -27,6 +27,14 @@ body {
     width: 100%;
 }
 
+.correct {
+    background: #1D9A6C;
+}
+
+.incorrect {
+    background: #BF8C00;
+}
+
 @media screen and (max-width: 768px) {
     .choice-container {
         min-width: 40rem;
