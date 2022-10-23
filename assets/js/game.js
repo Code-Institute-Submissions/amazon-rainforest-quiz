@@ -3,6 +3,7 @@ const choices = Array.from(document.querySelectorAll('.choice-text'));
 const progressText = document.querySelector('#progressText');
 const scoreText = document.querySelector('#score');
 const progressBarFull = document.querySelector('#progressBarFull');
+const correct = document.querySelector('#data-number')
 
 let currentQuestion = {}
 let acceptingAnswers = true
