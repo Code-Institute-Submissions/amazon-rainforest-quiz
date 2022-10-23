@@ -37,18 +37,18 @@ body {
 
 /* Display head */
 
-#display-head {
+#hud {
     display: flex;
     justify-content: space-between;
 }
 
-.dh-prefix {
+.hud-prefix {
     text-align: center;
     font-size: 2rem;
     color:#DAF4C5;
 }
 
-.diplay-head-item {
+.hud-item {
     text-align: center;
     font-size: 2rem;
 }
