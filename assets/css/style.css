@@ -104,3 +104,8 @@ h1 {
     font-size: 3rem;
     color: #0E4D64;
 }
+
+#finalScore {
+    font-size: 6rem;
+    padding: 3rem;
+}
