@@ -97,7 +97,7 @@ choices.forEach(choice => {
 
         let classToApply = selectedAnswer == currentQuestion.answer ? 'correct' : 'incorrect'
 
-        if(classToApply === correct) {
+        if(classToApply == 'correct') {
             incrementScore(SCORE_POINTS)
         }
 
@@ -111,8 +111,8 @@ choices.forEach(choice => {
 })
 
 incrementScore = num => {
-    score +=num
-    scoreText.innerText = score
+    score += num
+    scored.innerText = score
 }
 
 startGame()
