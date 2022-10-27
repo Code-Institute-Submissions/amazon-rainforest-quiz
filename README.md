@@ -49,8 +49,9 @@ To achieve the goals above, I used JavaScript, HTML and CSS.
 
 In the first page, the players will see a message inviting them to test their knowledge with an image related to one of the Amazon Rainforest's most famous animal: Arara. 
 
-### Intro page
+### Quiz pages
 
-![My Image]()
+![My Image](/assets/images/quiz-pages.png)
 
-This page shows the basic structure of the game and contains the start button for the quiz. The player can realize the places of answer buttons, the header and the footer.
+The quiz pages bring the player to the game by showing the options in boxes where they can choose the correct one. They can also see their scores on the top right side of the page and the questions they are in on the top left side.
+
