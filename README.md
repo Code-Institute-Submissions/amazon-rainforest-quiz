@@ -71,3 +71,12 @@ If they choose an incorrect answer the background and the button color will be o
 When the players have passed through all the questions, they will reach the last page where they are invited to play again.
 
 ![My Image](/assets/images/final-page.png)
+
+## Resources
+
+- Code Institute course materials
+- Code Institute Slack Community for some helps and ideas
+- Code Institute Mentor meetings and support
+- Am I Responsive for a responsive image in README
+- Tips and tutorials from the Brian Design channel on Youtube [Youtube](https://www.youtube.com/channel/UCsKsymTY_4BYR-wytLjex7A)
+- [Canva](https://www.canva.com) for images used.
