@@ -45,7 +45,7 @@ To achieve the goals above, I used JavaScript, HTML and CSS.
 
 ### Intro Page
 
-![My Image](/assets/images/first-page-quiz.png)
+![My Image](/assets/images/intro-page-quiz.png)
 
 In the first page, the players will see a message inviting them to test their knowledge with an image related to one of the Amazon Rainforest's most famous animal: Arara. 
 
