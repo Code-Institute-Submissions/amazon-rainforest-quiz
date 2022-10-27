@@ -49,9 +49,19 @@ To achieve the goals above, I used JavaScript, HTML and CSS.
 
 In the first page, the players will see a message inviting them to test their knowledge with an image related to one of the Amazon Rainforest's most famous animal: Arara. 
 
-### Quiz pages
+### Quiz Pages
 
 ![My Image](/assets/images/quiz-pages.png)
 
 The quiz pages bring the player to the game by showing the options in boxes where they can choose the correct one. They can also see their scores on the top right side of the page and the questions they are in on the top left side.
+
+### Questions and Answers
+
+When the users choose a correct answer, they can see a change in the background color for green:
+
+![My Image](/assets/images/correct-answer.png)
+
+If they choose an incorrect answer the background and the button color will be orange:
+
+![My Image](/assets/images/incorrect-answer.png)
 
