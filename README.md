@@ -80,3 +80,11 @@ When the players have passed through all the questions, they will reach the last
 - Am I Responsive for a responsive image in README
 - Tips and tutorials from the Brian Design channel on Youtube [Youtube](https://www.youtube.com/channel/UCsKsymTY_4BYR-wytLjex7A)
 - [Canva](https://www.canva.com) for images used.
+
+## Testing
+
+### Browser testing
+
+Website was tested in Google Chrome, Opera, Microsoft Edge and Safari. On each browser this website works properly (functionality, visuality).
+
+It was tested on  Macbook Pro, Apple iPhone 13 Pro and Samsung A6 and the website worked on these type of devices.

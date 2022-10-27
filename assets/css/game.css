@@ -9,7 +9,6 @@ body {
     border-radius: 4px;
     background-color: #137177;
     font-size: 3rem;
-    min-width: 80rem;
 }
 
 .choice-container:hover {
@@ -18,7 +17,7 @@ body {
 }
 
 .choice-prefix {
-    padding: 2rem 2.5rem;
+    padding: 2rem;
     color: #DEEDCF;
 }
 
