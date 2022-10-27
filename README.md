@@ -26,3 +26,31 @@ My goals in building this simple and intuitive page where:
 * To make the quiz responsive.
 
 To achieve the goals above, I used JavaScript, HTML and CSS.
+
+### Features for future implementation
+
+* The number of questions can be increased, and I can also implement the functionality of showing the rigth answer when the player doesn't get the correct one at first.
+* Create sets of questions with increasing levels of difficulty. After this development, the game will be more exciting and variable for players.
+* Create a feature where the players could save the results for comparing to other players.
+
+## Technologies
+
+- HTML5 for basic structure of the website
+- CSS3 for style the website
+- Google Fonts for font family
+- Git for version control
+- GitHub for storage the files and steps of development of the website
+
+## Functionality
+
+### Start Screen
+
+![My Image](/assets/images/first-page-quiz.png)
+
+In the first page, the players will see a message inviting them to test their knowledge with an image related to one of the Amazon Rainforest's most famous animal: Arara. 
+
+### Intro page
+
+![My Image]()
+
+This page shows the basic structure of the game and contains the start button for the quiz. The player can realize the places of answer buttons, the header and the footer.
