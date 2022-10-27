@@ -102,4 +102,30 @@ The CSS was checked by W3C Jigsaw validator it did not reported any issues.
 
 The JS was checked via JSHint According to the assessment some functions are available in ES6 version. It was the reason that I got some warnings in the assessment.
 
-![My Image](assets/images/jshint-check-part1.jpg)
+![My Image](/assets/images/JSHint.png)
+
+### Local testing
+
+The buttons of the website were tested locally and these worked properly.
+
+## Version control
+
+I used two repositories during the development: GitPod for local repository and GitHub for remote or background repository. 
+
+I managed the versions with the following process:
+- I created a repository in GitHub
+- I opened and developped the repository in GitPod
+- I created and developped the files and folders in GitPod
+- I used commit messages to help the development with short notices
+- I saved and pushed my works to GitHub repository:
+    1. git add . - adding work to git
+    2. git commit -m "Commit message" - to commit the stage of work
+    3. git push - to update my work in GitHub
+
+## Publish the quiz
+
+The steps of the publishing on the GitHub were as follow:
+    
+    1. **"Settings"** on the repository
+    2. **"Source"** of "GitHub Pages" selected *master for Branch* and saved it
+    3. The website was published on GitHub Pages and the link was provided in the same section.
