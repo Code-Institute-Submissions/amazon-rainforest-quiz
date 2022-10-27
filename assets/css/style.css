@@ -30,7 +30,6 @@ h1 {
     align-items: center;
     max-width: 80rem;
     margin: 0 auto;
-    padding: 2rem;
     text-align: center;
 }
 
@@ -108,4 +107,10 @@ h1 {
 #finalScore {
     font-size: 6rem;
     padding: 3rem;
+}
+
+@media screen and (max-width: 768px) {
+    .choice-container {
+        max-width: 30rem;
+    }
 }
