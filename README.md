@@ -98,7 +98,7 @@ You can see the result below:
 
 The CSS was checked by W3C Jigsaw validator it did not reported any issues.
 
-![My Image](assets/images/w3c-css-assessment.jpg)
+![My Image](/assets/images/css-validator.png)
 
 The JS was checked via JSHint According to the assessment some functions are available in ES6 version. It was the reason that I got some warnings in the assessment.
 
