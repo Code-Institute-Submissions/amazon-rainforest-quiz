@@ -65,3 +65,9 @@ If they choose an incorrect answer the background and the button color will be o
 
 ![My Image](/assets/images/incorrect-answer.png)
 
+
+### Last Page
+
+When the players have passed through all the questions, they will reach the last page where they are invited to play again.
+
+![My Image](/assets/images/final-page.png)
