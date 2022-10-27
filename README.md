@@ -43,7 +43,7 @@ To achieve the goals above, I used JavaScript, HTML and CSS.
 
 ## Functionality
 
-### Start Screen
+### Intro Page
 
 ![My Image](/assets/images/first-page-quiz.png)
 
