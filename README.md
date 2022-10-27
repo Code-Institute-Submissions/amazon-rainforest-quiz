@@ -88,3 +88,18 @@ When the players have passed through all the questions, they will reach the last
 Website was tested in Google Chrome, Opera, Microsoft Edge and Safari. On each browser this website works properly (functionality, visuality).
 
 It was tested on  Macbook Pro, Apple iPhone 13 Pro and Samsung A6 and the website worked on these type of devices.
+
+### Validators
+
+The HTML was checked by W3C HTML validator and it did not reported any issues.
+You can see the result below:
+
+![My Image](/assets/images/validator-html.png)
+
+The CSS was checked by W3C Jigsaw validator it did not reported any issues.
+
+![My Image](assets/images/w3c-css-assessment.jpg)
+
+The JS was checked via JSHint According to the assessment some functions are available in ES6 version. It was the reason that I got some warnings in the assessment.
+
+![My Image](assets/images/jshint-check-part1.jpg)
